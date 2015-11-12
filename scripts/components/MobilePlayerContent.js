@@ -111,6 +111,7 @@ class MobilePlayerContent extends Component {
         dispatch(changeCurrentTime(currentTime));
     }
 
+  
     togglePlay(e) {
         e.preventDefault();
         const audioElement = ReactDOM.findDOMNode(this.refs.audio);

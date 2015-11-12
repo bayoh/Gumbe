@@ -5,14 +5,14 @@ export const CHANGE_TYPES = {
 };
 
 export const GENRES = [
-    'chill',
-    'deep',
-    'dubstep',
-    'house',
-    'progressive',
-    'tech',
-    'trance',
-    'tropical'
+    'Afro Beats',
+    'dance',
+    'booboo',
+    'Hip Hop',
+    'Hip Life',
+    'high life',
+    'palm-wine',
+    'Azonto'
 ];
 
 export const GENRES_MAP = (function(){
