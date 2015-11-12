@@ -24,7 +24,7 @@ module.exports = {
     devServer: {
         host: '0.0.0.0',
         proxy: {
-            '/api/*': 'http://localhost:8081',
+            '/api/*': 'http://localhost:8080',
         }
     }
 };

@@ -169,7 +169,7 @@ class Nav extends Component {
                                 className='nav-nav-item-link active'
                                 dispatch={dispatch}
                                 route={{path: ['songs']}}>
-                                SoundRedux
+                                Gumbe
                             </Link>
                         </div>
                         {this.renderUserLinks()}
