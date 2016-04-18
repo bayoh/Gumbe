@@ -1,7 +1,7 @@
 {
-  "name": "sound-redux",
+  "name": "Gumbe",
   "version": "1.0.0",
-  "description": "",
+  "description": "the home of salone entertainment",
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production webpack -p --config ./webpack.prod.config.js",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/andrewngu/sound-redux.git"
   },
-  "author": "",
+  "author": "bayoh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrewngu/sound-redux/issues"
@@ -51,6 +51,7 @@
     "webpack-dev-server": "^1.11.0"
   },
   "dependencies": {
+    "normalizr": "^1.4.1",
     "react-redux": "^2.1.2",
     "redux": "^3.0.4"
   }
