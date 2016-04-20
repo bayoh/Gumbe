@@ -52,6 +52,6 @@
   },
   "dependencies": {
     "react-redux": "^4.4.1",
-    "redux": "^3.0.4"
+    "redux": "^3.5.0"
   }
 }
