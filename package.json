@@ -25,7 +25,7 @@
     "babel-core": "^6.7.4",
     "babel-loader": "^6.2.4",
     "css-loader": "^0.23.1",
-    "expect": "^1.12.2",
+    "expect": "^1.19.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "isomorphic-fetch": "^2.1.1",
     "js-cookie": "^2.0.4",
