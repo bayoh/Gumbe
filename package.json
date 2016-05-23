@@ -30,7 +30,7 @@
     "isomorphic-fetch": "^2.1.1",
     "js-cookie": "^2.0.4",
     "jsx-loader": "^0.13.2",
-    "lodash": "^4.8.2",
+    "lodash": "^4.13.0",
     "mocha": "^2.3.3",
     "moment": "^2.10.6",
     "nock": "^8.0.0",
