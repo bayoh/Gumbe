@@ -1,5 +1,5 @@
 {
-  "name": "Gumbe",
+  "name": "gumbe",
   "version": "1.0.0",
   "description": "the home of salone entertainment",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewngu/sound-redux.git"
+    "url": "git+https://github.com/andrewngu/sound-redux.git"
   },
   "author": "bayoh",
   "license": "ISC",
@@ -54,5 +54,8 @@
     "normalizr": "^1.4.1",
     "react-redux": "^2.1.2",
     "redux": "^3.0.4"
+  },
+  "directories": {
+    "test": "test"
   }
 }
