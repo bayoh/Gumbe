@@ -38,7 +38,7 @@ class NavSearch extends Component {
     render() {
         return (
             <div className='nav-search'>
-                <i className='icon ion-search'></i>
+                <i img='/Users/bayoh/Dev/Personal/Gumbe/server/public/favicon.ico' ></i>
                 <input ref="query" className='nav-search-input' placeholder='SEARCH' onKeyPress={this.handleOnKeyPress} type='text' />
             </div>
         );

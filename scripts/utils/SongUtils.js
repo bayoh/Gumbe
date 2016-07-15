@@ -10,7 +10,7 @@ export function constructUrl(category) {
         if (category !== 'house'
         && category !== 'trance'
         && category !== 'dubstep') {
-            category = `${category} house`;
+            category = `${category} salone`;
         }
 
         result += `&tags=${category}`;
