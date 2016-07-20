@@ -1,1 +1,1 @@
-worker: webpack-dev-server --progress --colors --hot --content-base ./server/public --config ./webpack.config.js
+worker: webpack-dev-server --progress --colors --hot --content-base ./server/public --config ./webpack.config.js bundle exec thin start -p $PORT
