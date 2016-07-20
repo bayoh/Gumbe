@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewngu/sound-redux.git"
+    "url": "git+https://github.com/bayoh/Gumbe.git"
   },
   "author": "bayoh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrewngu/sound-redux/issues"
   },
-  "homepage": "https://github.com/andrewngu/sound-redux",
+  "homepage": "https://github.com/bayoh/Gumbe",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
     "babel-core": "^5.8.25",
