@@ -1,1 +1,1 @@
-web: webpack-dev-server --progress --colors --hot --content-base ./server/public --config ./webpack.config.js -p $PORT
+web: NODE_ENV=production webpack -p --config ./webpack.prod.config.js
