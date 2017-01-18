@@ -42,7 +42,7 @@
     "react-redux": "^4.4.1",
     "redux": "^3.0.0",
     "redux-devtools": "^3.2.0",
-    "redux-thunk": "^2.0.1",
+    "redux-thunk": "^2.1.2",
     "sass-loader": "^3.2.0",
     "soundcloud": "^3.0.1",
     "style-loader": "^0.13.1",
