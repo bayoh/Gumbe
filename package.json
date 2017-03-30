@@ -24,7 +24,7 @@
     "autoprefixer-loader": "^3.1.0",
     "babel-core": "^6.7.4",
     "babel-loader": "^6.2.4",
-    "css-loader": "^0.23.1",
+    "css-loader": "^0.28.0",
     "expect": "^1.12.2",
     "extract-text-webpack-plugin": "^1.0.1",
     "isomorphic-fetch": "^2.1.1",
