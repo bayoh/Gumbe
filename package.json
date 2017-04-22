@@ -48,7 +48,7 @@
     "style-loader": "^0.13.1",
     "velocity-react": "^1.1.1",
     "webpack": "^1.12.2",
-    "webpack-dev-server": "^1.11.0"
+    "webpack-dev-server": "^2.4.3"
   },
   "dependencies": {
     "react-redux": "^4.4.1",
