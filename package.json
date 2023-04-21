@@ -22,7 +22,7 @@
   "homepage": "https://github.com/andrewngu/sound-redux",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
-    "babel-core": "^6.7.4",
+    "babel-core": "^6.7.6",
     "babel-loader": "^6.2.4",
     "css-loader": "^0.23.1",
     "expect": "^1.12.2",
@@ -30,7 +30,7 @@
     "isomorphic-fetch": "^2.1.1",
     "js-cookie": "^2.0.4",
     "jsx-loader": "^0.13.2",
-    "lodash": "^4.8.2",
+    "lodash": "^4.9.0",
     "mocha": "^2.3.3",
     "moment": "^2.10.6",
     "nock": "^8.0.0",
@@ -52,6 +52,6 @@
   },
   "dependencies": {
     "react-redux": "^4.4.1",
-    "redux": "^3.0.4"
+    "redux": "^3.4.0"
   }
 }
